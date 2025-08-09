@@ -1,0 +1,241 @@
+leaf_id,is_error,genotype_label
+000_ALICANTEBOUSCHET,False,vinifera
+000_CABERNETSAUVIGNON,False,vinifera
+000_CHARDONNAY,False,vinifera
+000_CHASSELASCIOUTAT,False,dissected
+000_CHASSELASDORE,False,vinifera
+000_FLAMETOKAY,False,vinifera
+000_GEWURTZTRAMINER,False,vinifera
+000_PINOTNOIR,False,vinifera
+000_SYLVANER,False,vinifera
+000_SYRAH,False,vinifera
+000_VITISACERIFOLIA,False,wild
+000_VITISAESTIVALIS,False,wild
+000_VITISAMURENSIS,False,wild
+000_VITISCINEREA,False,wild
+000_VITISCOIGNETIAE,False,wild
+000_VITISLABRUSCA,False,wild
+000_VITISPALMATA,False,wild
+000_VITISPIASEZKII,False,dissected
+000_VITISRIPARIA,False,wild
+000_VITISRUPESTRIS,False,wild
+000_VITISTHUNBERGII,False,wild
+000_VITISVULPINA,False,wild
+000_WHITERIESLING,False,vinifera
+000_ZINFANDEL,False,vinifera
+001_leaf4_588147a,False,wild
+002_leaf1_wGVIT1627a,False,dissected
+003_leaf5_588147a,False,wild
+004_leafb_K1164A,False,dissected
+005_leafc_K1163A,False,dissected
+006_leaf2_483180a,False,wild
+007_leaf8_w588055a,False,wild
+008_leaf2_wGVIT1626a,False,dissected
+009_leaf10_wGVIT1626b,False,dissected
+010_leaf2_483186a,False,wild
+011_leaf11_597257a,False,dissected
+012_leafd_K1163A,True,
+013_leaf6_wGVIT1627a,False,dissected
+014_leaf3_588538a,False,dissected
+015_leaf1_279897a,False,wild
+016_leaf9_588174a,False,wild
+017_leaf9_wGVIT1627a,False,dissected
+018_leaf1_588154a,False,wild
+019_leaf2_588154a,False,wild
+020_leaf3_588154a,False,wild
+021_leaf4_588154a,False,wild
+022_leaf1_588174a,False,wild
+023_leaf2_588174a,False,wild
+024_leaf3_588174a,False,wild
+025_leaf4_588174a,False,wild
+026_leaf1_313922a,False,wild
+027_leaf2_313922a,False,wild
+028_leaf3_313922a,False,wild
+029_leaf4_313922a,False,wild
+030_leaf1_483146a,False,wild
+031_leaf2_483146a,False,wild
+032_leaf3_483146a,False,wild
+033_leaf4_483146a,False,wild
+034_leaf1_588393a,False,wild
+035_leaf2_588393a,False,wild
+036_leaf3_588393a,False,wild
+037_leaf4_588393a,False,wild
+038_leaf1_588631a,False,wild
+039_leaf2_588631a,False,wild
+040_leaf3_588631a,False,wild
+041_leaf4_588631a,False,wild
+042_leaf1_483187a,False,wild
+043_leaf2_483187a,False,wild
+044_leaf3_483187a,False,wild
+045_leaf4_483187a,False,wild
+046_leaf1_483138a,False,wild
+047_leaf2_483138a,False,wild
+048_leaf3_483138a,False,wild
+049_leaf4_483138a,False,wild
+050_leaf1_w588451a,False,wild
+051_leaf2_w588451a,False,wild
+052_leaf3_w588451a,False,wild
+053_leaf4_w588451a,False,wild
+054_leaf1_588233a,False,wild
+055_leaf2_588233a,False,wild
+056_leaf3_588233a,False,wild
+057_leaf4_588233a,False,wild
+100_VITISROMANETII,False,wild
+101_VITISDOANIANA,False,wild
+101_VITISROMANETII,False,wild
+102_VITISDOANIANA,False,wild
+103_5C,False,rootstock
+104_5C,False,rootstock
+105_DOGRIDGE,False,rootstock
+106_DOGRIDGE,False,rootstock
+107_CORVINAVERONSE,False,vinifera
+108_CORVINAVERONSE,False,vinifera
+109_AXR1,False,rootstock
+110_AXR1,False,rootstock
+111_VITISACERIFOLIA,False,wild
+112_VITISACERIFOLIA,True,
+113_O39-16,False,rootstock
+114_O39-16,False,rootstock
+115_CINSAULT,False,vinifera
+116_CINSAULT,False,vinifera
+117_GRN3,True,
+118_GRN3,False,rootstock
+200_MERLOT,False,vinifera
+201_MALVASIABIANCA,True,
+202_MALVASIABIANCA,False,vinifera
+203_1613C,False,rootstock
+204_TREBBIANO,True,
+205_TREBBIANO,False,vinifera
+206_SYLVANER,False,vinifera
+207_BONARDA,False,vinifera
+208_BONARDA,False,vinifera
+209_RS-9,False,rootstock
+210_RS-9,False,rootstock
+211_CABERNETFRANC,False,vinifera
+212_VALDEPENAS,False,vinifera
+213_VALDEPENAS,False,vinifera
+214_VESPOLINA,False,vinifera
+215_FOLLEBLANCE,False,vinifera
+216_FOLLEBLANCE,False,vinifera
+217_PETITVERDOT,False,vinifera
+218_PETITVERDOT,False,vinifera
+219_DOGRIDGE,True,
+220_DOGRIDGE,False,rootstock
+221_RAMSEY,False,rootstock
+222_RAMSEY,False,rootstock
+223_PARELLADA,False,vinifera
+224_PARELLADA,False,vinifera
+225_44-53,False,rootstock
+226_44-53,False,rootstock
+227_1103P,False,rootstock
+228_BARBERA,True,
+229_MUSCATOTTONEL,False,vinifera
+230_MUSCATOTTONEL,False,vinifera
+231_SIEGERREBE,False,vinifera
+232_5C,False,rootstock
+233_5C,False,rootstock
+234_5BB,False,rootstock
+235_5BB,False,rootstock
+236_TANNAT,False,vinifera
+237_ALICANTEBOUSCHET,False,vinifera
+238_ALICANTEBOUSCHET,True,
+239_MARSANNE,True,
+240_RIPARIAGLOIRE,True,
+241_RIPARIAGLOIRE,True,
+242_8B,False,rootstock
+243_8B,False,rootstock
+244_CILIEGIOLO,True,
+245_CILIEGIOLO,True,
+246_EMERALDRIESLING,False,vinifera
+247_VITISARIZONICA,False,wild
+248_VITISARIZONICA,False,wild
+249_DOGRIDGE,False,rootstock
+250_BURGER,False,vinifera
+300_AHMEUR BOU AHMEUR_ID01,True,
+301_AHMEUR BOU AHMEUR_ID02,False,algeria
+302_AHMEUR BOU AHMEUR_ID03,True,
+303_AHMEUR BOU AHMEUR_ID04,False,algeria
+304_AHMEUR BOU AHMEUR_ID05,False,algeria
+305_AHMEUR BOU AHMEUR_ID06,False,algeria
+306_AHMEUR BOU AHMEUR_ID07,True,
+307_AHMEUR BOU AHMEUR_ID08,False,algeria
+308_AHMEUR BOU AHMEUR_ID09,True,
+309_AHMEUR BOU AHMEUR_ID10,False,algeria
+310_AHMEUR BOU AHMEUR_ID11,False,algeria
+311_BABARI_ID12,False,algeria
+312_BABARI_ID13,False,algeria
+313_BABARI_ID14,False,algeria
+314_BABARI_ID15,True,
+315_BABARI_ID16,False,algeria
+316_BABARI_ID17,False,algeria
+317_BABARI_ID18,True,
+318_BABARI_ID19,False,algeria
+319_BABARI_ID20,False,algeria
+320_BABARI_ID21,False,algeria
+321_BABARI_ID22,False,algeria
+322_GENOTYPE 1_ID23,False,algeria
+323_GENOTYPE 1_ID24,False,algeria
+324_GENOTYPE 1_ID25,False,algeria
+325_GENOTYPE 1_ID26,False,algeria
+326_GENOTYPE 1_ID27,False,algeria
+327_GENOTYPE 1_ID28,False,algeria
+328_GENOTYPE 1_ID29,False,algeria
+329_GENOTYPE 1_ID30,True,
+330_GENOTYPE 1_ID31,False,algeria
+331_GENOTYPE 1_ID32,False,algeria
+332_GENOTYPE 1_ID33,False,algeria
+333_GENOTYPE 2_ID34,False,algeria
+334_GENOTYPE 2_ID35,False,algeria
+335_GENOTYPE 2_ID36,False,algeria
+336_GENOTYPE 2_ID37,False,algeria
+337_GENOTYPE 2_ID38,True,
+338_GENOTYPE 2_ID39,True,
+339_GENOTYPE 2_ID40,False,algeria
+340_GENOTYPE 2_ID41,False,algeria
+341_GENOTYPE 2_ID42,False,algeria
+342_GENOTYPE 2_ID43,False,algeria
+343_GENOTYPE 2_ID44,False,algeria
+344_GENOTYPE 3_ID45,True,
+345_GENOTYPE 3_ID46,False,algeria
+346_GENOTYPE 3_ID47,True,
+347_GENOTYPE 3_ID48,False,algeria
+348_GENOTYPE 3_ID49,False,algeria
+349_GENOTYPE 3_ID50,False,algeria
+350_GENOTYPE 3_ID51,True,
+351_GENOTYPE 3_ID52,False,algeria
+352_GENOTYPE 3_ID53,False,algeria
+353_GENOTYPE 3_ID54,False,algeria
+354_GENOTYPE 3_ID55,False,algeria
+355_GENOTYPE 4_ID56,False,algeria
+356_GENOTYPE 4_ID57,False,algeria
+357_GENOTYPE 4_ID58,False,algeria
+358_GENOTYPE 4_ID59,False,algeria
+359_GENOTYPE 4_ID60,False,algeria
+360_GENOTYPE 4_ID61,True,
+361_GENOTYPE 4_ID62,False,algeria
+362_GENOTYPE 4_ID63,False,algeria
+363_GENOTYPE 4_ID64,False,algeria
+364_GENOTYPE 4_ID65,False,algeria
+365_GENOTYPE 4_ID66,True,
+366_LOUALI_ID67,False,algeria
+367_LOUALI_ID68,False,algeria
+368_LOUALI_ID69,False,algeria
+369_LOUALI_ID70,False,algeria
+370_LOUALI_ID71,False,algeria
+371_LOUALI_ID72,False,algeria
+372_LOUALI_ID73,False,algeria
+373_LOUALI_ID74,False,algeria
+374_LOUALI_ID75,False,algeria
+375_LOUALI_ID76,False,algeria
+376_LOUALI_ID77,False,algeria
+377_TIZI OUININE_ID78,False,algeria
+378_TIZI OUININE_ID79,False,algeria
+379_TIZI OUININE_ID80,False,algeria
+380_TIZI OUININE_ID81,False,algeria
+381_TIZI OUININE_ID82,False,algeria
+382_TIZI OUININE_ID83,False,algeria
+383_TIZI OUININE_ID84,True,
+384_TIZI OUININE_ID85,False,algeria
+385_TIZI OUININE_ID86,True,
+386_TIZI OUININE_ID87,False,algeria
+387_TIZI OUININE_ID88,True,
