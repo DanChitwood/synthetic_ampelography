@@ -6,10 +6,10 @@
 **Figure 1: Morphospace.** A Principal Component Analysis (PCA) morphospace of grapevine leaves. Theoretical eigenleaves are shown as a grid representing shape variation for their respective regions. Major classes of grapevine leaves indicated by color (see legend).  
 
 ![Alt](https://github.com/DanChitwood/synthetic_ampelography/blob/main/outputs/figures/fig_ECT.png)  
-**Figure 2: Radial Euler Characteristic Transform (ECT) and real and synthetic leaves.** For the 12 indicated classes (rows), examples of real (left six columns) and synthetic (right six columns) leaves. For each class and for real and synthetic leaves, three random leaves are selected shown as pairs with the blade (left) and veins (right). For each representation, the outline of the blade or vein is shown as a white outline projected onto its corresponding radial ECT in which Euler characteristic values are shown in inferno color scale.
+**Figure 2: Radial Euler Characteristic Transform (ECT) for real and synthetic leaves.** For the 12 indicated classes (rows), examples of real (left six columns) and synthetic (right six columns) leaves. For each class and for real and synthetic leaves, three random leaves are selected shown as pairs with the blade (left) and veins (right). For each representation, the outline of the blade or vein is shown as a white outline projected onto its corresponding radial ECT in which Euler characteristic values are shown in inferno color scale.
 
 ![Alt](https://github.com/DanChitwood/synthetic_ampelography/blob/main/outputs/figures/fig_gradCAM.png)  
-**Figure 3: Mean leaves and Gradient-weighted Class Activation Mapping (Grad-CAM) by class.** For each of the 12 indicated classes, overall Generalized Procrustes Analysis (GPA) mean leaf and examples of Grad-CAM for a Convolutional Neural Network (CNN) predicting class.
+**Figure 3: Mean leaves and Gradient-weighted Class Activation Mapping (Grad-CAM) by class.** For each of the 12 indicated classes, overall Generalized Procrustes Analysis (GPA) mean leaf (top) and examples of Grad-CAM for a Convolutional Neural Network (CNN) predicting class (bottom).
 
 **Table 1: Peformance statistics for classification of the indicated classes by CNN.**
 | Class              | Precision   | Recall   |   F1-Score / Accuracy |
