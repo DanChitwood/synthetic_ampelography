@@ -1,5 +1,38 @@
 # Synthetic Ampelography: Deep Learning for Vitis Leaf Classification and Vasculature Generation
 
+## Figures and Tables
+
+![Alt](https://github.com/DanChitwood/synthetic_ampelography/blob/main/outputs/figures/fig_morphospace.png)  
+**Figure 1: Morphospace.** A Principal Component Analysis (PCA) morphospace of grapevine leaves. Theoretical eigenleaves are shown as a grid representing shape variation for their respective regions. Major classes of grapevine leaves indicated by color (see legend).  
+
+![Alt](https://github.com/DanChitwood/synthetic_ampelography/blob/main/outputs/figures/fig_ECT.png)  
+**Figure 2: Radial Euler Characteristic Transform (ECT) and real and synthetic leaves.** For the 12 indicated classes (rows), examples of real (left six columns) and synthetic (right six columns) leaves. For each class and for real and synthetic leaves, three random leaves are selected shown as pairs with the blade (left) and veins (right). For each representation, the outline of the blade or vein is shown as a white outline projected onto its corresponding radial ECT in which Euler characteristic values are shown in inferno color scale.
+
+![Alt](https://github.com/DanChitwood/synthetic_ampelography/blob/main/outputs/figures/fig_gradCAM.png)  
+**Figure 3: Mean leaves and Gradient-weighted Class Activation Mapping (Grad-CAM) by class.** For each of the 12 indicated classes, overall Generalized Procrustes Analysis (GPA) mean leaf and examples of Grad-CAM for a Convolutional Neural Network (CNN) predicting class.
+
+**Table 1: Peformance statistics for classification of the indicated classes by CNN.**
+| Class              | Precision   | Recall   |   F1-Score / Accuracy |
+|:-------------------|:------------|:---------|----------------------:|
+| Ahmeur Bou Ahmeur  | 0.7         | 1.0      |                  0.82 |
+| Amer Bouamar       | 1.0         | 1.0      |                  1    |
+| Babari             | 0.57        | 0.89     |                  0.7  |
+| Bouabane des Aures | 0.67        | 1.0      |                  0.8  |
+| Ichmoul            | 0.83        | 1.0      |                  0.91 |
+| Ichmoul Bacha      | 0.43        | 0.33     |                  0.38 |
+| Louali             | 0.75        | 0.82     |                  0.78 |
+| Tizi Ouinine       | 0.4         | 0.5      |                  0.44 |
+| dissected          | 0.85        | 1.0      |                  0.92 |
+| rootstock          | 0.62        | 0.84     |                  0.71 |
+| vinifera           | 0.92        | 0.63     |                  0.75 |
+| wild               | 0.98        | 0.77     |                  0.86 |
+| accuracy           |             |          |                  0.78 |
+| macro avg          | 0.73        | 0.82     |                  0.76 |
+| weighted avg       | 0.82        | 0.78     |                  0.78 |
+
+![Alt](https://github.com/DanChitwood/synthetic_ampelography/blob/main/outputs/figures/fig_confusion_matrix.png)  
+**Figure 4: Classification by Convolutional Neural Network (CNN) confusion matrix.** True labels (rows) vs. predicted labels (columns) for the 12 indicated classes. Values are normalized proportions, indicated by number and color (see legend).  
+
 ## Methods 
 
 ### Convolutional Neural Network (CNN) classification using radial Euler Characteristic Transform (ECT) and aligned shape mask  
