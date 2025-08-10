@@ -1,0 +1,17 @@
+| Class              | Precision   | Recall   |   F1-Score / Accuracy |
+|:-------------------|:------------|:---------|----------------------:|
+| Ahmeur Bou Ahmeur  | 0.7         | 1.0      |                  0.82 |
+| Amer Bouamar       | 1.0         | 1.0      |                  1    |
+| Babari             | 0.57        | 0.89     |                  0.7  |
+| Bouabane des Aures | 0.67        | 1.0      |                  0.8  |
+| Ichmoul            | 0.83        | 1.0      |                  0.91 |
+| Ichmoul Bacha      | 0.43        | 0.33     |                  0.38 |
+| Louali             | 0.75        | 0.82     |                  0.78 |
+| Tizi Ouinine       | 0.4         | 0.5      |                  0.44 |
+| dissected          | 0.85        | 1.0      |                  0.92 |
+| rootstock          | 0.62        | 0.84     |                  0.71 |
+| vinifera           | 0.92        | 0.63     |                  0.75 |
+| wild               | 0.98        | 0.77     |                  0.86 |
+| accuracy           |             |          |                  0.78 |
+| macro avg          | 0.73        | 0.82     |                  0.76 |
+| weighted avg       | 0.82        | 0.78     |                  0.78 |
